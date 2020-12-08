@@ -1,0 +1,12 @@
+{
+  "name": "@mono-lab/one",
+  "version": "1.0.0",
+  "description": "mono lab app pne",
+  "main": "src/main.ts",
+  "scripts": {
+    "start": "node dist/main.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT"
+}
