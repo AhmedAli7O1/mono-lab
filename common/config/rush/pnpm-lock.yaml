@@ -1,8 +1,15 @@
 dependencies:
   '@rush-temp/one': 'file:projects/one.tgz'
+  '@rush-temp/two': 'file:projects/two.tgz'
+  '@types/node': 14.14.11
   rimraf: 3.0.2
+  typescript: 4.1.2
 lockfileVersion: 5.1
 packages:
+  /@types/node/14.14.11:
+    dev: false
+    resolution:
+      integrity: sha512-BJ97wAUuU3NUiUCp44xzUFquQEvnk1wu7q4CMEUYKJWjdkr0YWYDsm4RFtAvxYsNjLsKcrFt6RvK8r+mnzMbEQ==
   /balanced-match/1.0.0:
     dev: false
     resolution:
@@ -69,20 +76,43 @@ packages:
     hasBin: true
     resolution:
       integrity: sha512-JZkJMZkAGFFPP2YqXZXPbMlMBgsxzE8ILs4lMIX/2o0L9UBw9O/Y3o6wFw/i9YLapcUJWwqbi3kdxIPdC62TIA==
+  /typescript/4.1.2:
+    dev: false
+    engines:
+      node: '>=4.2.0'
+    hasBin: true
+    resolution:
+      integrity: sha512-thGloWsGH3SOxv1SoY7QojKi0tc+8FnOmiarEGMbd/lar7QOEd3hvlx3Fp5y6FlDUGl9L+pd4n2e+oToGMmhRQ==
   /wrappy/1.0.2:
     dev: false
     resolution:
       integrity: sha1-tSQ9jz7BqjXxNkYFvA0QNuMKtp8=
   'file:projects/one.tgz':
     dependencies:
+      '@types/node': 14.14.11
       rimraf: 3.0.2
+      typescript: 4.1.2
     dev: false
     name: '@rush-temp/one'
     resolution:
-      integrity: sha512-0jfxYLNT88B2zp/lxZkNReUxTgtavPRiHnVX1b9b8OQa9IS37SrQFvH6hToo3mAfEk9G9YKQKcVjGS/HAdCxuA==
+      integrity: sha512-my+79Qi9UsKr9bLAUkSKg/rfKK3ncVrLsEkI+0rnPL8rXlRBAKN3kYDXmlJit5yIGg7X3qD6fye5FSzDmPoezg==
       tarball: 'file:projects/one.tgz'
+    version: 0.0.0
+  'file:projects/two.tgz':
+    dependencies:
+      '@types/node': 14.14.11
+      rimraf: 3.0.2
+      typescript: 4.1.2
+    dev: false
+    name: '@rush-temp/two'
+    resolution:
+      integrity: sha512-j/L5LQQuHnxt4RuGpkuQXWz/ulJuo8CWPM8wl1K9Mf5Cig0586VFmi/CpSpvTeZRb9F/ME/zgwHrL3zzZDN1MQ==
+      tarball: 'file:projects/two.tgz'
     version: 0.0.0
 registry: ''
 specifiers:
   '@rush-temp/one': 'file:./projects/one.tgz'
+  '@rush-temp/two': 'file:./projects/two.tgz'
+  '@types/node': ~14.14.11
   rimraf: ~3.0.2
+  typescript: ~4.1.2
