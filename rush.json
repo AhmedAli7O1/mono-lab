@@ -441,6 +441,12 @@
       "projectFolder": "apps/one",
       "reviewCategory": "production",
       "shouldPublish": true
+    },
+    {
+      "packageName": "@mono-lab/two",
+      "projectFolder": "apps/two",
+      "reviewCategory": "production",
+      "shouldPublish": true
     }
   ]
 }

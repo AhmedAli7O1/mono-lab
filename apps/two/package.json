@@ -1,7 +1,7 @@
 {
-  "name": "@mono-lab/one",
+  "name": "@mono-lab/two",
   "version": "1.0.0",
-  "description": "mono lab app one",
+  "description": "mono lab app two",
   "main": "src/main.ts",
   "scripts": {
     "start": "node dist/main.js"
