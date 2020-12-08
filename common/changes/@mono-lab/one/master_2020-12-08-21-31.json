@@ -1,0 +1,11 @@
+{
+  "changes": [
+    {
+      "packageName": "@mono-lab/one",
+      "comment": "add another console log",
+      "type": "patch"
+    }
+  ],
+  "packageName": "@mono-lab/one",
+  "email": "bluemax7o1@gmail.com"
+}
