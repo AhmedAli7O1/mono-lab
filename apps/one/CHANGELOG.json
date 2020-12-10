@@ -1,0 +1,17 @@
+{
+  "name": "@mono-lab/one",
+  "entries": [
+    {
+      "version": "1.0.1",
+      "tag": "@mono-lab/one_v1.0.1",
+      "date": "Thu, 10 Dec 2020 14:47:53 GMT",
+      "comments": {
+        "patch": [
+          {
+            "comment": "add another console log"
+          }
+        ]
+      }
+    }
+  ]
+}
