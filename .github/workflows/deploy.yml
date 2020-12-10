@@ -17,13 +17,13 @@ jobs:
       with:
         node-version: 14
     - name: Checking for missing change logs...
-    - run: node common/scripts/install-run-rush.js change -v
+      run: node common/scripts/install-run-rush.js change -v
     - name: Installing...
-    - run: node common/scripts/install-run-rush.js install
+      run: node common/scripts/install-run-rush.js install
     - name: Building...
-    - run: node common/scripts/install-run-rush.js rebuild --verbose
+      run: node common/scripts/install-run-rush.js rebuild --verbose
     - name: Publishing...
-    - run: >-
+      run: >-
         node common/scripts/install-run-rush.js
         --target-branch master
         --set-access-level public
