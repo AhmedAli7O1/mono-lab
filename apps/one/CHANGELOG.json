@@ -2,6 +2,20 @@
   "name": "@mono-lab/one",
   "entries": [
     {
+      "version": "1.0.4",
+      "tag": "@mono-lab/one_v1.0.4",
+      "date": "Sat, 12 Dec 2020 20:39:43 GMT",
+      "comments": {
+        "patch": [
+          {
+            "comment": "add log",
+            "author": "Ahmed Ali <bluemax7o1@gmail.com>",
+            "commit": "809247d3818382a330607dc051af106dcc761b1d"
+          }
+        ]
+      }
+    },
+    {
       "version": "1.0.3",
       "tag": "@mono-lab/one_v1.0.3",
       "date": "Sat, 12 Dec 2020 20:31:34 GMT",
