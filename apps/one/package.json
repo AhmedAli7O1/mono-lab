@@ -1,6 +1,6 @@
 {
   "name": "@mono-lab/one",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "mono lab app one",
   "main": "src/main.ts",
   "scripts": {
