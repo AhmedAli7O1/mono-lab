@@ -2,6 +2,25 @@
   "name": "@mono-lab/one",
   "entries": [
     {
+      "version": "1.0.2",
+      "tag": "@mono-lab/one_v1.0.2",
+      "date": "Sat, 12 Dec 2020 20:01:54 GMT",
+      "comments": {
+        "patch": [
+          {
+            "comment": "adding third console.log",
+            "author": "Ahmed Ali <bluemax7o1@gmail.com>",
+            "commit": "e59f1abb4fd5f93bb903a1b89512f63ce1c3af0b"
+          },
+          {
+            "comment": "sdfsdf",
+            "author": "Ahmed Ali <bluemax7o1@gmail.com>",
+            "commit": "e59f1abb4fd5f93bb903a1b89512f63ce1c3af0b"
+          }
+        ]
+      }
+    },
+    {
       "version": "1.0.1",
       "tag": "@mono-lab/one_v1.0.1",
       "date": "Thu, 10 Dec 2020 14:47:53 GMT",
