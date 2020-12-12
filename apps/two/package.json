@@ -16,6 +16,6 @@
     "typescript": "~4.1.2"
   },
   "dependencies": {
-    "@mono-lab/one": "workspace:*"
+    "@mono-lab/one": "~1.0.8"
   }
 }
