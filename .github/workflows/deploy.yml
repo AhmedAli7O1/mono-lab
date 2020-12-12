@@ -28,6 +28,10 @@ jobs:
       run: >-
         git config --global user.email "bluemax7o1@gmail.com" &&
         git config --global user.name "Ahmed Ali"
+    - name: Bump versions
+      run: >-
+        node common/scripts/install-run-rush.js version
+        --bump
     - name: Publishing...
       run: >-
         node common/scripts/install-run-rush.js publish

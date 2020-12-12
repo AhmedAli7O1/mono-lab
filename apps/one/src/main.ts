@@ -1,4 +1,4 @@
-export const print = function (txt: string) {
+export const printFn = function (txt: string) {
   console.log(`Print from ONE: ${txt}`);
 };
 
