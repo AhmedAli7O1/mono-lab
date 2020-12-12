@@ -29,4 +29,4 @@ jobs:
         --set-access-level public
         --tag latest
         --npm-auth-token ${{ secrets.NPM_AUTH_TOKEN }}
-        --apply --publish --add-commit-details --include-all
+        --apply --publish --add-commit-details
