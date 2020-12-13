@@ -1,6 +1,13 @@
 # Change Log - @mono-lab/two
 
-This log was last generated on Sun, 13 Dec 2020 08:53:38 GMT and should not be manually modified.
+This log was last generated on Sun, 13 Dec 2020 10:03:57 GMT and should not be manually modified.
+
+## 1.0.4
+Sun, 13 Dec 2020 10:03:57 GMT
+
+### Patches
+
+- ioio
 
 ## 1.0.3
 Sun, 13 Dec 2020 08:53:38 GMT
