@@ -1,6 +1,18 @@
 # Change Log - @mono-lab/one
 
-This log was last generated on Sat, 12 Dec 2020 21:59:16 GMT and should not be manually modified.
+This log was last generated on Sun, 13 Dec 2020 08:53:38 GMT and should not be manually modified.
+
+## 1.1.0
+Sun, 13 Dec 2020 08:53:38 GMT
+
+### Minor changes
+
+- we
+
+### Patches
+
+- q
+- add rush version
 
 ## 1.0.9
 Sat, 12 Dec 2020 21:59:16 GMT

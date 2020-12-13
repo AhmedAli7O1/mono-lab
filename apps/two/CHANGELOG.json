@@ -2,6 +2,18 @@
   "name": "@mono-lab/two",
   "entries": [
     {
+      "version": "1.0.3",
+      "tag": "@mono-lab/two_v1.0.3",
+      "date": "Sun, 13 Dec 2020 08:53:38 GMT",
+      "comments": {
+        "dependency": [
+          {
+            "comment": "Updating dependency \"@mono-lab/one\" from `~1.0.10` to `~1.1.0`"
+          }
+        ]
+      }
+    },
+    {
       "version": "1.0.2",
       "tag": "@mono-lab/two_v1.0.2",
       "date": "Sat, 12 Dec 2020 21:18:33 GMT",
