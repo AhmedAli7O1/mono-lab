@@ -1,0 +1,11 @@
+{
+  "changes": [
+    {
+      "packageName": "@mono-lab/two",
+      "comment": "mroe logs",
+      "type": "patch"
+    }
+  ],
+  "packageName": "@mono-lab/two",
+  "email": "bluemax7o1@gmail.com"
+}
