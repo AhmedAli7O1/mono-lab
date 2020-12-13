@@ -1,16 +1,2 @@
-# Ignore all files by default, to avoid accidentally publishing unintended files.
-*
-
-# Use negative patterns to bring back the specific things we want to publish.
-!/dist/**
-
-# Ignore certain patterns that should not get published.
-*.spec.js
-*.e2e-spec.js
-
-# NOTE: These don't need to be specified, because NPM includes them automatically.
-#
-# package.json
-# README (and its variants)
-# CHANGELOG (and its variants)
-# LICENSE / LICENCE
+**/**.*
+!dist/**
