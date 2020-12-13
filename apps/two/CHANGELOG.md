@@ -1,6 +1,13 @@
 # Change Log - @mono-lab/two
 
-This log was last generated on Sun, 13 Dec 2020 10:03:57 GMT and should not be manually modified.
+This log was last generated on Sun, 13 Dec 2020 10:12:58 GMT and should not be manually modified.
+
+## 1.0.5
+Sun, 13 Dec 2020 10:12:58 GMT
+
+### Patches
+
+- mroe logs
 
 ## 1.0.4
 Sun, 13 Dec 2020 10:03:57 GMT
