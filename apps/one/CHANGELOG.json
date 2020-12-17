@@ -2,6 +2,18 @@
   "name": "@mono-lab/one",
   "entries": [
     {
+      "version": "1.1.1",
+      "tag": "@mono-lab/one_v1.1.1",
+      "date": "Thu, 17 Dec 2020 20:03:18 GMT",
+      "comments": {
+        "patch": [
+          {
+            "comment": "log"
+          }
+        ]
+      }
+    },
+    {
       "version": "1.1.0",
       "tag": "@mono-lab/one_v1.1.0",
       "date": "Sun, 13 Dec 2020 08:53:38 GMT",

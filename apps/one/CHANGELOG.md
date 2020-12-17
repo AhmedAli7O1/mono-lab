@@ -1,6 +1,13 @@
 # Change Log - @mono-lab/one
 
-This log was last generated on Sun, 13 Dec 2020 08:53:38 GMT and should not be manually modified.
+This log was last generated on Thu, 17 Dec 2020 20:03:18 GMT and should not be manually modified.
+
+## 1.1.1
+Thu, 17 Dec 2020 20:03:18 GMT
+
+### Patches
+
+- log
 
 ## 1.1.0
 Sun, 13 Dec 2020 08:53:38 GMT
