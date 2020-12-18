@@ -2,6 +2,60 @@
   "name": "@mono-lab/two",
   "entries": [
     {
+      "version": "1.0.6",
+      "tag": "@mono-lab/two_v1.0.6",
+      "date": "Sun, 13 Dec 2020 10:19:28 GMT",
+      "comments": {
+        "patch": [
+          {
+            "comment": "cc",
+            "author": "Ahmed Ali <bluemax7o1@gmail.com>",
+            "commit": "51e47d7f9423263dd7844c27d56634280a997680"
+          }
+        ]
+      }
+    },
+    {
+      "version": "1.0.5",
+      "tag": "@mono-lab/two_v1.0.5",
+      "date": "Sun, 13 Dec 2020 10:12:58 GMT",
+      "comments": {
+        "patch": [
+          {
+            "comment": "mroe logs",
+            "author": "Ahmed Ali <bluemax7o1@gmail.com>",
+            "commit": "cd6b59fea2dd69a7d394fdb0ace9aafa6ee11c7a"
+          }
+        ]
+      }
+    },
+    {
+      "version": "1.0.4",
+      "tag": "@mono-lab/two_v1.0.4",
+      "date": "Sun, 13 Dec 2020 10:03:57 GMT",
+      "comments": {
+        "patch": [
+          {
+            "comment": "ioio",
+            "author": "Ahmed Ali <bluemax7o1@gmail.com>",
+            "commit": "6a8bb88e382f9229bc1603729e78c77256d7581b"
+          }
+        ]
+      }
+    },
+    {
+      "version": "1.0.3",
+      "tag": "@mono-lab/two_v1.0.3",
+      "date": "Sun, 13 Dec 2020 08:53:38 GMT",
+      "comments": {
+        "dependency": [
+          {
+            "comment": "Updating dependency \"@mono-lab/one\" from `~1.0.10` to `~1.1.0`"
+          }
+        ]
+      }
+    },
+    {
       "version": "1.0.2",
       "tag": "@mono-lab/two_v1.0.2",
       "date": "Sat, 12 Dec 2020 21:18:33 GMT",
